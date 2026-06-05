@@ -38,7 +38,7 @@ rsa-cryptanalysis-demo/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/[usuario]/rsa-cryptanalysis-demo.git
+git clone https://github.com/jullyanolino/rsa-cryptanalysis-demo.git
 cd rsa-cryptanalysis-demo
 
 # (Opcional) Crie um ambiente virtual
